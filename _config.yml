@@ -23,9 +23,9 @@ footer:
     - name: Email
       value: iam.terryzhang@gmail.com
       link: mailto:iam.terryzhang@gmail.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+#     - name: WeChat
+#       value: YourWeChatUsername
+#       link: "#"
   follow:
     - name: Twitter
       link: http://twitter.com/theterryzhang
