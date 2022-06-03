@@ -6,7 +6,7 @@ author: "Terry Zhang"
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I am Terry - A full stack data scientist with a special interest in networks and NLP with experiences in the sustainability sector.
 baseurl: "/" # the subpath of the site
-url: "https://teryakizhang.github.io" # the base hostname & protocol for the site
+url: "https://terryzhang.ca" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "G-WW2XNBPF43"
 
