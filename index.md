@@ -13,3 +13,7 @@ Hi! I am an applied data scientist interested in using computational analytic me
 <p>
 I am currently based in London, UK, but I grew up in Vancouver and have lived in Shenzhen and Toronto. You will find me surfing, snowboarding, hiking, cooking, or discovering new music outside of work. 
 </p>
+
+<p>
+This website is still under construction, you can find some of my work on my Github for now.
+</p>
