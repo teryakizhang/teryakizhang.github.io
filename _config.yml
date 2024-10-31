@@ -34,6 +34,8 @@ footer:
       link: http://linkedin.com/in/zhangterry/
     - name: GitHub
       link: http://github.com/teryakizhang
+    - name: Google Scholar
+      link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_zihltqpFoJ5BQGsk9Zry0CTdXi1EJsUxnML0NXh4PXkXEwlX8z6kFtHMSKofXzeraTwsb5MV_fDX6FRC0A&user=ztrlGNEAAAAJ
 
 # Build settings
 markdown: kramdown
