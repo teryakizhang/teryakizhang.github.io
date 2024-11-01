@@ -7,11 +7,15 @@ profile_picture:
 
 
 <p>
-Hi! I am an applied data scientist interested in using computational analytic methods to advance sustainability research. I have analytics experience within the carbon finance and green buildings industry. I am especially interested in the application of NLP and network analysis.  I have a Bachelor's in Environmental Studies with a computer science minor from the University of Waterloo and a Master of Science in Social Data Science from the University of Oxford. 
+Hi! 
 </p>
 
 <p>
-I am currently based in London, UK, but I grew up in Vancouver and have lived in Shenzhen and Toronto. You will find me surfing, snowboarding, hiking, cooking, or discovering new music outside of work. 
+I am a data scientist interested in using AI and machine learning to advance climate research. I have worked for 3 years as a data scientist/developer building various data-driven products in the climate finance space, including carbon market platform and climate risk assessment tools. I am currently a PhD Researcher with the Plymouth Marine Laboratory working to model coastal carbon dynamics using AI and complexity science. I have a Master of Science in Social Data Science from the University of Oxford and a Bachelor's in Environmental Studies with a computer science minor from the University of Waterloo. 
+</p>
+
+<p>
+Outside of work you will find me surfing, snowboarding, hiking, cooking, or discovering new music.
 </p>
 
 <p>
