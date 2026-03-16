@@ -21,7 +21,7 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: iam.terryzhang@gmail.com
+      value: ''.join('iam.terryzhang', '@', 'gmail.com')
       link: mailto:iam.terryzhang@gmail.com
 #     - name: WeChat
 #       value: YourWeChatUsername
