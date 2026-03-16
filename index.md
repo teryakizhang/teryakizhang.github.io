@@ -11,9 +11,11 @@ Hi!
 </p>
 
 <p>
-I am a data scientist interested in using AI and machine learning for good, especially in climate and sustainability. I have worked for three years as a data scientist/developer building data-driven products in the climate finance space, including carbon market platform and climate risk assessment models. I have a Master of Science in Social Data Science from the University of Oxford and a Bachelor's in Environmental Studies with a computer science minor from the University of Waterloo. 
+I am Terry, a {research, data, applied} scientist with a keen interest for AI for good. Currently, I am at [Meedan](https://meedan.org) evaluating the integrity and truthfulness of LLMs beyond the West (the Larger World) and other research [projects](https://meedan.org/post/can-machine-learning-help-stop-gender-based-violence-online) trying to make the Internet safer and more equitable. 
+
+I have previously worked in the climate sector building data intelligence platforms and risk models, including as the data science lead of acquired start-up Trove Research (now MSCI Carbon Markets). I hold a Master of Science in Social Data Science from the Oxford Internet Institute, University of Oxford and a Bachelor's in Environmental Studies with a computer science minor from the University of Waterloo. 
 </p>
 
 <p>
-Outside of work you will find me surfing, snowboarding, hiking, cooking, or discovering new music.
+Outside of work you will find me surfing, snowboarding, hiking, cooking, or discovering new music. If you want to chat research ideas related to information integrity, multilingual LLMs, and AI safety, please feel free to reach out!
 </p>
